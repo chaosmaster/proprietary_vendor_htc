@@ -28,8 +28,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/hima-common/proprietary/etc/firmware/ILP0100_IPM_Code_out.bin:system/etc/firmware/ILP0100_IPM_Code_out.bin \
     vendor/htc/hima-common/proprietary/etc/firmware/ILP0100_IPM_Data_out.bin:system/etc/firmware/ILP0100_IPM_Data_out.bin \
     vendor/htc/hima-common/proprietary/etc/firmware/alIAF_InData_4M2M:system/etc/firmware/alIAF_InData_4M2M \
-    vendor/htc/hima-common/proprietary/etc/firmware/fw_bcm4356.bin:system/etc/firmware/fw_bcm4356.bin \
-    vendor/htc/hima-common/proprietary/etc/firmware/fw_bcm4356_apsta.bin:system/etc/firmware/fw_bcm4356_apsta.bin \
     vendor/htc/hima-common/proprietary/etc/firmware/lscbuffer_rev2.bin:system/etc/firmware/lscbuffer_rev2.bin \
     vendor/htc/hima-common/proprietary/etc/hldm.bin:system/etc/hldm.bin \
     vendor/htc/hima-common/proprietary/etc/hltof.bin:system/etc/hltof.bin \
